@@ -1,0 +1,9 @@
+﻿  Assembling stub.asm...
+  Warlord.cpp
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 305 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  Warlord.vcxproj -> C:\Users\olisc\source\repos\Warlord\x64\Release\Warlord.exe
+  Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
+  konnte nicht gefunden werden.
